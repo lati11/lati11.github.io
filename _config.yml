@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: poole/poole
 
 title: 🎣 오낚끝 패치노트
